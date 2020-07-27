@@ -3,7 +3,7 @@ title: "Scalable demand-aware recommendation"
 collection: publications
 permalink: /publication/scalable-demand-aware-recommendation
 excerpt: ''
-date: 2017
+date: 2017-12-01
 venue: ''
 paperurl: 'https://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation.pdf'
 citation: 'J Yi, CJ Hsieh, KR Varshney, L Zhang, Y Li - Advances in Neural Information Processing Systems, 2017.'
