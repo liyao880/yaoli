@@ -2,7 +2,7 @@
 title: "Scalable demand-aware recommendation"
 collection: publications
 permalink: /publication/scalable-demand-aware-recommendation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2017
 venue: ''
 paperurl: 'https://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation.pdf'
