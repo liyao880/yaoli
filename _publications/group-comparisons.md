@@ -2,7 +2,6 @@
 title: "Learning from Group Comparisons: Exploiting Higher Order Interactions"
 collection: publications
 permalink: /publication/group-comparisons
-excerpt: ''
 date: 2018-12-01
 venue: 'NeurIPS'
 ---
