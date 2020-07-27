@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae](http://liyao880.github.io/yaoli/files/Yao_Li_s_CV.pdf)
+
 Education
 ======
 * B.S. in Statistics, Fudan University, 2014
