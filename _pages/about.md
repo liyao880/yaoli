@@ -12,3 +12,5 @@ I am an assistant professor of Statistics at UNC Chapel Hill. I was a Ph.D. stud
 
 My research focuses on developing new algorithms to resolve the real-world difficulties in the machine learning pipeline. I study both statistical and computational aspects of machine learning models. I am interested in developing new models with statistical guarantees, such as recommeder systems, factorial machine and fiducial inference. Currently, I am working on adversarial examples, trying to improve the robustness of deep neural networks.
 
+
+https://liyao880.github.io/yaoli/talkmap.html
