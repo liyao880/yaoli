@@ -2,10 +2,8 @@
 title: "L-Arginine supplementation in severe asthma"
 collection: publications
 permalink: /publication/L-Arginine
-excerpt: ''
 date: 2020-06-04
 venue: 'JCI Insight'
-paperurl: ''
 ---
 BACKGROUND. Dysregulation of l-arginine metabolism has been proposed to occur in patients with severe asthma. The effects of l-arginine supplementation on l-arginine metabolite profiles in these patients are unknown. We hypothesized that individuals with severe asthma with low fractional exhaled nitric oxide (FeNO) would have fewer exacerbations with the addition of l-arginine to their standard asthma medications compared with placebo and would demonstrate the greatest changes in metabolite profiles.
 
