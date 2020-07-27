@@ -3,7 +3,7 @@ title: "Learning from Group Comparisons: Exploiting Higher Order Interactions"
 collection: publications
 permalink: /publication/group-comparisons
 excerpt: ''
-date: 2018
+date: 2018-12-04
 venue: ''
 paperurl: 'https://papers.nips.cc/paper/7746-learning-from-group-comparisons-exploiting-higher-order-interactions.pdf'
 citation: 'Y Li, M Cheng, K Fujii, F Hsieh, CJ Hsieh - Advances in Neural Information Processing Systems, 2018'
