@@ -5,7 +5,7 @@ type: "Job talk"
 permalink: /talks/unc_job_talk
 venue: "UNC Chapel Hill"
 date: 2020-01-10
-location: "Chapel Hill, NC"
+location: "Chapel Hill, North Carolina"
 ---
 
 Deep neural networks (DNNs) are one of the most prominent technologies of our time, as they achieve state-of-the-art performance in many machine learning tasks, including but not limited to image classification, text mining, and speech processing. However, recent studies have demonstrated the vulnerability of deep neural networks against adversarial examples, i.e., examples that are carefully crafted to fool a well-trained deep neural network while being indistinguishable from the natural images to humans. This makes it unsafe to apply neural networks in security-critical applications.
