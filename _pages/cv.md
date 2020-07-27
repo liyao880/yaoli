@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](http://liyao880.github.io/yaoli/files/Yao_Li_s_CV.pdf)
-
+[Curriculum Vitae](http://liyao880.github.io/yaoli/files/Yao_Li_s_CV.pdf)
+======
 
 Education
 ======
