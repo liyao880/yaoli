@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Robustness for statistical model"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Studies have showed that machine learning models, not only neural networks, are vulnerable to adversarial examples. Although adversarial robustness have been extensively studied in the context of neural networks, research on this issue in many other machine learning and statistical models and how to make these models robust against adversarial examples is still limited. It is thus interesting to study how to attack and defend these models.
