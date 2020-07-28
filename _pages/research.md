@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Interest"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
