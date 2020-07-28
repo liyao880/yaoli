@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research Interest"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,40 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](http://liyao880.github.io/yaoli/files/Yao_Li_s_CV.pdf)
+Security of Machine Learning System
 ======
+Studies have showed that machine learning models, not only neural networks, are vulnerable to adversarial examples. Although adversarial robustness have been extensively studied in the context of neural networks, research on this issue in many other machine learning and statistical models and how to make these models robust against adversarial examples is still limited. It is thus interesting to study how to attack and defend these models.
 
-Education
-======
-* B.S. in Statistics, Fudan University, 2014
-* M.S. in Financial Statistics, London School of Economics and Political Science, 2015
-* Ph.D in Statistics, University of California Davis, 2020
+I also plan to continue study how to make deep learning models more robust and resistant against adversarial attacks. Previously, we mainly focused on deep learning models on image dataset, i.e. the security of deep neural net in computer vision. As deep neural networks have demonstrated state-of-the-art performances on many difficult machine learning tasks, such as natural language processing (NLP). With the widely application of deep neural nets in many NLP tasks, it is also worth studying the security issue of deep neural nets in the field of natural language processing.
 
 Work experience
 ======
-* 7/2020-present: Assistant Professor of Statistics
-  * University of North Carolina at Chapel Hill
 
-* 6/2019-9/2019: Machine Learning Engineer Summer Intern
-  * Facebook, Inc.
-
-* 6/2018-12/2018: Research Assistant
-  * NEC Laboratories America
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
