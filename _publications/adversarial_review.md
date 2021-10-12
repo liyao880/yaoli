@@ -1,10 +1,10 @@
 ---
-title: "Uncertainty Quantification for High-Dimensional Sparse Nonparametric Additive Models"
+title: "A Review of Adversarial Attack and Defense for Classification Methods"
 collection: publications
-permalink: /publication/uncertainty
-date: 2019-10-15
-venue: 'Technometrics'
+permalink: /publication/adversarial_review
+date: 2021-10-12
+venue: 'minor revision at The American Statistician'
 ---
-Statistical inference in high-dimensional settings has recently attracted enormous attention within the literature. However, most published work focuses on the parametric linear regression problem. This article considers an important extension of this problem: statistical inference for high-dimensional sparse nonparametric additive models. To be more precise, this article develops a methodology for constructing a probability density function on the set of all candidate models. This methodology can also be applied to construct confidence intervals for various quantities of interest (such as noise variance) and confidence bands for the additive functions. This methodology is derived using a generalized fiducial inference framework. It is shown that results produced by the proposed methodology enjoy correct asymptotic frequentist properties. Empirical results obtained from numerical experimentation verify this theoretical claim. Lastly, the methodology is applied to a gene expression dataset and discovers new findings for which most existing methods based on parametric linear modeling failed to observe.
+Despite the efficiency and scalability of machine learning systems, recent studies have demonstrated that many classification methods, especially deep neural networks, are vulnerable to adversarial examples; i.e., examples that are carefully crafted to fool a well-trained classification model while being indistinguishable from natural data to human eyes.  This makes it potentially unsafe to apply deep neural networks or related methods in security-critical areas.  Since this issue was first identified by Biggioet al.(2013) and Szegedyet al.(2014), much work has been done in this field, including the development of attack methods to generate adversarial examples and the construction of defense techniques to guard against such examples.  This paper aims to introduce this topic and its latest developments to the statistical community. Computing codes (in python and R) used in the numerical experiments are publicly available for readers to explore the surveyed methods. It is the hope of the authors that this paper will encourage more statisticians to work on this important and exciting field of generating and defending against adversarial examples.
 
-[Download paper here](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2019.1665591?casa_token=mTT7eWZoOEsAAAAA:A4dvuYgUUJp0T3VKGZs4hfeRDMSU1x-O9q5HhQvi7F5TVaxrazJ8Ulz4BQomL-zBL_9vDC-8nOdBfg)
+[Will be available soon]()
