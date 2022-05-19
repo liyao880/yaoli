@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="YAO LI" >
+
+    <link rel="shortcut icon" href="./YaoLi_files/img/unc_logo.svg">
+
+    <title>Yao Li</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="./YaoLi_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="./YaoLi_files/custom.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+  <style>
+        .navbar
+        {
+            border:5px solid #002855;
+        }
+      </style>
+      
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color: #002855;">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+		<a class="navbar-brand" href="https://liyao880.github.io/yaoli/#" style="color: #808080;"> 
+			<h2>Yao Li</h2></a>
+		<!--                <a class="navbar-brand" href="#"><img width="40px" height="40px" src="aaa.png" style="margin-top:5px;background:white;" alt=""></a> -->
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://liyao880.github.io/yaoli/#about" style="color: #808080; font-size: 20px;">About</a></li>
+                    <li><a href="https://liyao880.github.io/yaoli/publications_full.html" style="color: #808080;font-size: 20px;">Publications</a></li>
+                    <li><a href="https://liyao880.github.io/yaoli/research.html" style="color: #808080;font-size: 20px;">Research</a></li>
+                    <li><a href="https://liyao880.github.io/yaoli/teaching.html" style="color: #808080;font-size: 20px;">Teaching</a></li>
+                    <li><a href="https://liyao880.github.io/yaoli/talks.html" style="color: #808080;font-size: 20px;">Talks</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+
+    <!-- Page Content -->
+   	  <style>
+    .image{
+      text-align: center;
+    }
+    .image label{
+      display: block;      
+      line-height: 0; /*To stick the label under the bottom edge of the image*/
+    }
+    .image img{
+      display: inline-block;
+    }
+  	</style> 
+		
+    <div class="container">
+
+	    <section id="research">
+        <a name="research"></a>
+        <!-- Heading Row -->
+
+
+      <h2>Research</h2>
+		    
+		<h3>Adversarial robustness</h3>    
+		    <br>
+		     Studies have showed that machine learning models, not only neural networks, are vulnerable to adversarial examples. 
+		    Although adversarial robustness have been extensively studied in the context of neural networks, 
+		    research on this issue in many other machine learning and statistical models and how to make these models 
+		    robust against adversarial examples is still limited. It is thus interesting to study how to attack and defend these models.
+		    
+		    <br>
+		    
+		    I also plan to continue study how to make deep learning models more robust and resistant against adversarial attacks. 
+		    Previously, we mainly focused on deep learning models on image dataset, i.e. the security of deep neural net in computer vision. 
+		    As deep neural networks have demonstrated state-of-the-art performances on many difficult machine learning tasks, 
+		    such as natural language processing (NLP). With the widely application of deep neural nets in many NLP tasks, 
+		    it is also worth studying the security issue of deep neural nets in the field of natural language processing.
+		    <br>
+	     	<br>
+	     	
+	     <div class="page">
+	 
+      <div class="image">
+      
+       <img src="./YaoLi_files/img/demo.png">
+       <br>
+       <br>
+      <label>Work Demo: ER-Classifier</label>
+      </div>
+        </div>
+
+			<br>
+			We proposed a different defense framework, termed <strong>ER-Classifier</strong>, 
+			which combines the process of detecting and classifying adversarial examples in one framework. 
+			In fact, any deep classifier can be viewed as a combination of these two parts: 
+			an encoder part to extract useful features from the input data and a classifier part to perform classification based on the 
+			extracted features. 
+		<br>
+		ER-Classifier is similar to a regular deep classifier, which first projects the input to a low-dimensional space with an encoder <strong>G</strong>, 
+		then performs classification based on the low-dimensional embedding with an classifier <strong>C</strong>. 
+		The novelty is that at the training stage, the low-dimensional embedding of ER-Classifier is stabilized with a discriminator 
+		<strong>D</strong> by minimizing the dispersion between the distribution of the embedding and the distribution of a selected prior. 
+
+		<h3>Computational Pathology</h3>    
+		    <br>
+		    I also plan to continue study how to make deep learning models more robust and resistant against adversarial attacks. 
+		    Previously, we mainly focused on deep learning models on image dataset, i.e. the security of deep neural net in computer vision. 
+		    As deep neural networks have demonstrated state-of-the-art performances on many difficult machine learning tasks, 
+		    such as natural language processing (NLP). With the widely application of deep neural nets in many NLP tasks, 
+		    it is also worth studying the security issue of deep neural nets in the field of natural language processing.
+		    <br>
+	     	<br>
+	     	
+	     <div class="page">
+	 
+      <div class="image">
+      
+       <img src="./YaoLi_files/img/task.jpeg" width="900" >
+       <br>
+       <br>
+      <label>Work Demo: Region of Interest Detection</label>
+      </div>
+        </div>
+
+			<br>		    		    
+		    		    	    
+		  Automated region of interest detection in histopathological image analysis is a challenging and important topic with tremendous 
+		  potential impact in clinical practice. In this project, we aim to address one important question: How to perform automated region 
+		  of interest detection in melanocytic skin tumor (melanoma and nevus) whole slide images? In the above figure, 
+		  the slide has ROI indicated by black dots that were drawn by a pathologist. Our goal is to automatically find this region without 
+		  the use of black dots. The performance of our method can be seen as the green boundary in the right hand panel. 
+		  Advances in digital pathology and artificial intelligence have presented the potential to perform automated ROI detection in large 
+		  medical images, but there are still many difficulties and challenges given the large size of the image and the small size of the dataset. 	
+		
+		<h3>New machine learning and statistical model</h3>    
+		    <br>
+		    Another line of research I would like to continue working on is designing models with better statistical guarantees. 
+		    In previous works, we developed efficient and scalable machine learning and statistical models to solve real-world problems. 
+		    There are many problems remain unsolved in this field, such as better ranking models with statistical guarantee, 
+		    more ‘‘fair’’ machine learning models in dealing with biased data and so on.
+		    <br>
+
+
+        
+        </section>
+
+
+
+
+
+ 
+    <!-- custom -->
+    <script src="./Cho-Jui Hsieh_files/custom.js"></script>
+
+    <!-- jQuery -->
+    <script src="./Cho-Jui Hsieh_files/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="./Cho-Jui Hsieh_files/bootstrap.min.js"></script>
+
+
+
+
+</div></body></html>
