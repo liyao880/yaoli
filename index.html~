@@ -47,7 +47,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="https://liyao880.github.io/yaoli/#about" style="color: #808080; font-size: 20px;">About</a></li>
+                    <li><a href="https://liyao880.github.io/yaoli/#about" style="color: #808080; font-size: 20px;">Home</a></li>
                     <li><a href="https://liyao880.github.io/yaoli/publications_full.html" style="color: #808080;font-size: 20px;">Publications</a></li>
                     <li><a href="https://liyao880.github.io/yaoli/research.html" style="color: #808080;font-size: 20px;">Research</a></li>
                     <li><a href="https://liyao880.github.io/yaoli/teaching.html" style="color: #808080;font-size: 20px;">Teaching</a></li>
