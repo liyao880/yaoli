@@ -122,6 +122,36 @@
 
 		<div class="row">
             <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/cvpr2023.png">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="https://arxiv.org/pdf/2211.11152.pdf">
+						You Need Multiple Exiting: Dynamic Early Exiting for Accelerating Unified Vision Language Model. 
+				</a></b>
+				Shengkun Tang, Yaqing Wang, Zhenglun Kong, Tianchi Zhang, Yao Li, Caiwen Ding, Yanzhi Wang, Yi Liang, Dongkuan Xu. 
+		<i> In CVPR, 2023.  
+					</i>
+				</p> 
+	    </div>
+			</div>
+			
+		<div class="row">
+            <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/cvpr2023.png">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="https://arxiv.org/pdf/2212.06152.pdf">
+						Accelerating Dataset Distillation via Model Augmentation. 
+				</a></b>
+				Lei Zhang, Jie Zhang, Bowen Lei, Subhabrata Mukherjee, Xiang Pan, Bo Zhao, Caiwen Ding, Yao Li, Dongkuan Xu. 
+		<i> In CVPR, 2023.  
+					</i>
+				</p> 
+	    </div>
+			</div>
+			
+		<div class="row">
+            <div class="col-sm-2 text-center">
 				<img src="./YaoLi_files/img/EMNLP_2022_logo.jpeg">
             </div>
             <div class="col-sm-8">
