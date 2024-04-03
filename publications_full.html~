@@ -122,6 +122,21 @@
 
 		<div class="row">
             <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/ieee.png">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="https://ieeexplore.ieee.org/document/10472606">
+						Adversarial Examples Detection With Bayesian Neural Network
+				</a></b>
+				Yao Li, Tongyi Tang, Cho-Jui Hsieh, Thomas C. M. Lee.
+		<i> In IEEE TETCI, 2024.  
+					</i>
+				</p> 
+	    </div>
+			</div>
+			
+		<div class="row">
+            <div class="col-sm-2 text-center">
 				<img src="./YaoLi_files/img/cvpr2023.png">
             </div>
             <div class="col-sm-8">
@@ -148,6 +163,9 @@
 					</i>
 				</p> 
 	    </div>
+	    	     <div class="col-sm-2">
+              <a class="btn btn-success btn-xs" href="">highlight</a>
+               </div>
 			</div>
 			
 		<div class="row">
