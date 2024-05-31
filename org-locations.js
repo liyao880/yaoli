@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "New York, New York",
+    42.729014,
+    -73.676728
+  ],
+  [
+    "Auburn, Alabama",
+    32.593357,
+    -85.495163
+  ],
+  [
     "Tokyo, Japan",
     35.652832,
     139.839478
@@ -23,6 +33,11 @@ var addressPoints = [
     "Toronto, Canada",
     43.651070,
     -79.347015
+  ],
+  [
+    "San Francisco, California",
+    37.773972,
+    -122.431297
   ],
   [
     "Los Angeles, California",
