@@ -87,7 +87,7 @@
 				<p><b><a href="">
 						Stain SAN: Simultaneous Augmentation and Normalization for Histopathology Images. 
 				</a></b> Taebin Kim, Yao Li, Benjamin C. Calhoun, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
-						<i> Under Review, 2024.
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -99,7 +99,7 @@
 				<p><b><a href="">
 						TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training.
 				</a></b> Bongsoo Yi, Rongjie Lai, and Yao Li.
-						<i> Under Review, 2024.
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -111,7 +111,7 @@
 				<p><b><a href="">
 						Grade-adjusted Image Analysis of Breast Cancer to Predict Subtype.
 				</a></b>	 Dong Neuck Lee, Yao Li, Melissa A. Troester, Katherine A. Hoadley, Benjamin C. Calhoun, Charles M. Perou, Linnea T. Olsson, Alina M. Hamilton, Bentley R. Midkiff, and J.S. Marron.
-						<i> Under Review, 2024.
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -123,7 +123,7 @@
 				<p><b><a href="">
 						Analysis of Invisible Textual Backdoor Attack.
 				</a></b>	 Xinglin Li, Xianwen He, Yao Li, and Minhao Cheng.
-						<i> Under Review, 2024.
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -135,22 +135,11 @@
 				<p><b><a href="">
 						Region of Interest Detection in Melanocytic Skin Tumor Whole Slide Images. 
 				</a></b> Yi Cui, Yao Li, Jayson R. Miedema, Sherif Farag, Sharon N. Edmiston, J. S. Marron, and Nancy E. Thomas. 
-						<i> Under Review, 2024.
+						<<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
-	
-			<div class="row">
-            <div class="col-sm-2 text-center">
-            </div>
-            <div class="col-sm-8">
-				<p><b><a href="">
-						Visual Intratumor Heterogeneity and Breast Tumor Progression.
-				</a></b>	 Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
-						<i> Under Review, 2024.
-			</p>
-            </div>
-			</div>
+
 
 			<div class="row">
             <div class="col-sm-2 text-center">
@@ -159,7 +148,7 @@
 				<p><b><a href="">
 						Can Machine Tell the Distortion Difference? A Reverse Engineering Study of Adversarial Attacks.
 				</a></b>	 Xiawei Wang, Cho-Jui Hsieh, Thomas C. M. Lee, and Yao Li.
-						<i> 2024.
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -171,7 +160,32 @@
 				<p><b><a href="">
 						Feddecay: Adapting to Data Heterogeneity in Federated Learning with Within-round Learning Rate Decay.
 				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
-						<i> 2024.
+						<i>Under Review, 2024.</i>
+			</p>
+            </div>
+			</div>
+
+	
+			<div class="row">
+            <div class="col-sm-2 text-center">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="">
+						Dueling Bandits with Stochastic Delayed Feedback.
+				</a></b>	 Bongsoo Yi, Yue Kang, and Yao Li.
+						<i>Under Review, 2024.</i>
+			</p>
+            </div>
+			</div>
+
+			<div class="row">
+            <div class="col-sm-2 text-center">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="">
+						Multiple Instance Learning for Breast Cancer Histopathology Images. 
+				</a></b>	 Taebin Kim, Benjamin C. Calhoun, Yao Li, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
+						<i>2024.</i>
 			</p>
             </div>
 			</div>
@@ -183,35 +197,11 @@
 				<p><b><a href="">
 						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
 				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
-						<i> 2024.
+						<i>2024.</i>
 			</p>
             </div>
 			</div>
-	
-			<div class="row">
-            <div class="col-sm-2 text-center">
-            </div>
-            <div class="col-sm-8">
-				<p><b><a href="">
-						Multiple Instance Learning for Breast Cancer Histopathology Images. 
-				</a></b>	 Taebin Kim, Benjamin C. Calhoun, Yao Li, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
-						<i> 2024.
-			</p>
-            </div>
-			</div>
-	
-			<div class="row">
-            <div class="col-sm-2 text-center">
-            </div>
-            <div class="col-sm-8">
-				<p><b><a href="">
-						Dueling Bandits with Stochastic Delayed Feedback.
-				</a></b>	 Bongsoo Yi, Yue Kang, and Yao Li.
-						<i> 2024.
-			</p>
-            </div>
-			</div>
-																		
+																					
         </section>
 
         <hr>
@@ -227,6 +217,33 @@
         </div>
 <!-- /.row -->
 
+			<div class="row">
+            <div class="col-sm-2 text-center">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="">
+						Visual Intratumor Heterogeneity and Breast Tumor Progression.
+				</a></b>	 Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
+						<i>Under Review, 2024.</i>
+			</p>
+            </div>
+			</div>
+
+		<div class="row">
+            <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/cancers_logo.png">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="https://www.mdpi.com/2072-6694/16/13/2294#:~:text=Our%20findings%20indicate%20that%20tumors,with%20a%20more%20favorable%20prognosis.">
+						Visual Intratumor Heterogeneity and Breast Tumor Progression.
+				</a></b>
+				Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
+		<i> In Cancers, 2024.  
+					</i>
+				</p> 
+	    </div>
+			</div>
+			
 		<div class="row">
             <div class="col-sm-2 text-center">
 				<img src="./YaoLi_files/img/ieee.png">
