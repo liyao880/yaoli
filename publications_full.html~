@@ -135,7 +135,7 @@
 				<p><b><a href="">
 						Region of Interest Detection in Melanocytic Skin Tumor Whole Slide Images. 
 				</a></b> Yi Cui, Yao Li, Jayson R. Miedema, Sherif Farag, Sharon N. Edmiston, J. S. Marron, and Nancy E. Thomas. 
-						<<i>Under Review, 2024.</i>
+						<i>Under Review, 2024.</i>
 			</p>
             </div>
 			</div>
@@ -183,8 +183,8 @@
             </div>
             <div class="col-sm-8">
 				<p><b><a href="">
-						Multiple Instance Learning for Breast Cancer Histopathology Images. 
-				</a></b>	 Taebin Kim, Benjamin C. Calhoun, Yao Li, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
+						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
+				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
 						<i>2024.</i>
 			</p>
             </div>
@@ -195,8 +195,8 @@
             </div>
             <div class="col-sm-8">
 				<p><b><a href="">
-						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
-				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
+						Multiple Instance Learning for Breast Cancer Histopathology Images. 
+				</a></b>	 Taebin Kim, Benjamin C. Calhoun, Yao Li, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
 						<i>2024.</i>
 			</p>
             </div>
@@ -217,17 +217,7 @@
         </div>
 <!-- /.row -->
 
-			<div class="row">
-            <div class="col-sm-2 text-center">
-            </div>
-            <div class="col-sm-8">
-				<p><b><a href="">
-						Visual Intratumor Heterogeneity and Breast Tumor Progression.
-				</a></b>	 Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
-						<i>Under Review, 2024.</i>
-			</p>
-            </div>
-			</div>
+
 
 		<div class="row">
             <div class="col-sm-2 text-center">
