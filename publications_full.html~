@@ -184,7 +184,20 @@
         </div>
 <!-- /.row -->
 
-
+		<div class="row">
+            <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/eccv2024.png">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href=" ">
+						AdaDiff: Accelerating Diffusion Models through Step-Wise Adaptive Computation.
+				</a></b>
+				Shengkun Tang, Yaqing Wang, Caiwen Ding, Yi Liang, Yao Li, Dongkuan Xu.
+		<i> In ECCV, 2024.  
+					</i>
+				</p> 
+	    </div>
+			</div>
 
 		<div class="row">
             <div class="col-sm-2 text-center">
