@@ -130,18 +130,19 @@
             </div>
 			</div>	     	
 
-		<div class="row">
+
+			<div class="row">
             <div class="col-sm-11">
             <ul>
-				<p><b><a href="">
-						Can Machine Tell the Distortion Difference? A Reverse Engineering Study of Adversarial Attacks.
-				</a></b> Xiawei Wang, Cho-Jui Hsieh, Thomas C. M. Lee, and Yao Li.
-						 <i>Under Review, 2024.</i>
-			</p>
+				<p><b><a href="https://ieeexplore.ieee.org/document/10643066">
+						Uncovering Distortion Differences: A Study of Adversarial Attacks and Machine Discriminability.
+				</a></b>	 Xiawei Wang, Yao Li, Cho-Jui Hsieh, and Thomas C. M. Lee.
+		<i> In IEEE Access, 2024.  
+					</i>
+				</p> 
 			<ul>
             </div>
-			</div>	
-				
+			</div>				
 	
 			<div class="row">
             <div class="col-sm-11">
@@ -254,7 +255,7 @@
 				<p><b><a href="">
 						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
 				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
-						<i>2024.</i>
+						<i>Under Review, 2024.</i>
 			</p>
 			<ul>
             </div>
@@ -292,7 +293,7 @@
 				<p><b><a href="">
 						Stain SAN: Simultaneous Augmentation and Normalization for Histopathology Images. 
 				</a></b> Taebin Kim, Yao Li, Benjamin C. Calhoun, Aatish Thennavan, Lisa A. Carey, W. Fraser Symmans, Melissa A. Troester, Charles M. Perou, and J.S. Marron.
-						<i>Under Review, 2024.</i>
+						<i>In JMI, 2024.</i>
 			</p>
 			<ul>
             </div>
@@ -325,11 +326,13 @@
 		<div class="row">
             <div class="col-sm-11">
             <ul>
-				<p><b><a href="">
+				<p><b><a href="https://www.mdpi.com/2072-6694/16/13/2294#:~:text=Our%20findings%20indicate%20that%20tumors,with%20a%20more%20favorable%20prognosis.">
 						Visual Intratumor Heterogeneity and Breast Tumor Progression.
-				</a></b>	 Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
-						<i>Under Review, 2024.</i>
-			</p>
+				</a></b>
+				Yao Li, Sarah C. Van Alsten, Dong Neuck Lee, Taebin Kim, Benjamin C. Calhoun, Charles M. Perou, Sara E. Wobker, J.S. Marron, Katherine A. Hoadley, and Melissa A. Troester.
+		<i> In Cancers, 2024.  
+					</i>
+				</p>
 			<ul>
             </div>
 			</div>
