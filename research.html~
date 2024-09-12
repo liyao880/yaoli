@@ -381,7 +381,7 @@
 				<p><b><a href="">
 						Feddecay: Adapting to Data Heterogeneity in Federated Learning with Within-round Learning Rate Decay.
 				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
-						<i>2024.</i>
+						<i>Under Review, 2024.</i>
 			</p>
 			<ul>
             </div>
@@ -391,7 +391,7 @@
             <div class="col-sm-11">
             <ul>
 				<p><b><a href="">
-						Dueling Bandits with Stochastic Delayed Feedback.
+						Biased Dueling Bandits with Stochastic Delayed Feedback.
 				</a></b>	 Bongsoo Yi, Yue Kang, and Yao Li.
 						<i>In TMLR 2024.</i>
 			</p>
