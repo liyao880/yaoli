@@ -150,6 +150,7 @@
 	    </div>
 			</div>
 			
+			<br>
 			
 		<div class="row">
             <div class="col-sm-2 text-center">
@@ -235,6 +236,9 @@
 					</i>
 				</p> 
 	    </div>
+	    			<div class="col-sm-2">
+              <a class="btn btn-danger btn-xs" href="https://github.com/uclanlp/advexdetection-addmu">Code</a>
+               </div>
 			</div>
 			
 		<div class="row">
@@ -250,6 +254,10 @@
 					</i>
 				</p> 
 	    </div>
+	    	  			 <div class="col-sm-2">
+              <a class="btn btn-danger btn-xs" href="https://github.com/ncsu-dk-lab/MuE">Code</a>
+
+               </div>
 			</div>
 			
 		<div class="row">
@@ -264,9 +272,10 @@
 		<i> In CVPR, 2023.  
 					</i>
 				</p> 
-	    </div>
-	    	     <div class="col-sm-2">
-              <a class="btn btn-success btn-xs" href="">highlight</a>
+	    </div>   
+	    			<div class="col-sm-2">
+              <a class="btn btn-danger btn-xs" href="https://github.com/ncsu-dk-lab/Acc-DD">Code</a>
+              <a class="btn btn-success btn-xs" href="">Highlight</a>
                </div>
 			</div>
 			
