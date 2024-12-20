@@ -125,7 +125,7 @@
 				<img src="./YaoLi_files/img/NeurIPS_logo.png">
             </div>
             <div class="col-sm-8">
-				<p><b><a href=" ">
+				<p><b><a href="https://nips.cc/virtual/2024/poster/94084">
 						Improving Logits-based Detector without Logits from Black-box LLMs.
 				</a></b>	  Cong Zeng, Shengkun Tang, Xianjun Yang, Yuanzhou Chen, Yiyou Sun, Zhiqiang Xu, Yao Li, Haifeng Chen, Wei Cheng, and Dongkuan Xu. 
 		<i> In NeurIPS, 2024.  
@@ -139,7 +139,7 @@
 				<img src="./YaoLi_files/img/bcr.png">
             </div>
             <div class="col-sm-8">
-				<p><b><a href=" ">
+				<p><b><a href="https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-024-01915-5">
 						Image Analysis-based Identification of High Risk ER-Positive, HER2-Negative Breast Cancers.
 				</a></b>	 Dong Neuck Lee, Yao Li, Linnea T. Olsson, Alina M. Hamilton, Benjamin C. Calhoun, Katherine A. Hoaddley, J.S. Marron, Melissa A. Troester.
 		<i> In Breast Cancer Research, 2024.  
@@ -197,7 +197,7 @@
 				<img src="./YaoLi_files/img/eccv2024.png">
             </div>
             <div class="col-sm-8">
-				<p><b><a href="https://arxiv.org/abs/2309.17074">
+				<p><b><a href="https://eccv2024.ecva.net/virtual/2024/poster/2161">
 						AdaDiff: Accelerating Diffusion Models through Step-Wise Adaptive Computation.
 				</a></b>
 				Shengkun Tang, Yaqing Wang, Caiwen Ding, Yi Liang, Yao Li, Dongkuan Xu.
