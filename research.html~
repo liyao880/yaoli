@@ -240,10 +240,10 @@
 		<div class="row">
             <div class="col-sm-11">
             <ul>
-				<p><b><a href="">
-						Analysis of Invisible Textual Backdoor Attack.
-				</a></b>	 Xinglin Li, Xianwen He, Yao Li, and Minhao Cheng.
-						<i>Under Review, 2024.</i>
+				<p><b><a href="https://ieeexplore.ieee.org/document/11121441">
+						Defense Against Syntactic Textual Backdoor Attacks with Token Substitution.
+				</a></b>	 Xianwen He, Xinglin Li, Yao Li, and Minhao Cheng.
+						<i>In IEEE TIFS, 2025.</i>
 			</p>
 			<ul>
             </div>
@@ -255,7 +255,7 @@
 				<p><b><a href="">
 						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
 				</a></b>	 Joseph Daniel Lavond, Minhao Cheng, and Yao Li.
-						<i>Under Review, 2024.</i>
+						<i>In TMLR, 2024.</i>
 			</p>
 			<ul>
             </div>
@@ -388,7 +388,20 @@
 	work well on a certain type of data but may not be applicable to other types due to large scale or some other limitations.		
 	
 	<h5>Preprints and Publications of this direction:</h5>
-			
+
+		<div class="row">
+            <div class="col-sm-11">
+            <ul>
+					<p><b><a href="https://eccv2024.ecva.net/virtual/2024/poster/2161">
+						AdaDiff: Accelerating Diffusion Models through Step-Wise Adaptive Computation.
+				</a></b>
+				Shengkun Tang, Yaqing Wang, Caiwen Ding, Yi Liang, Yao Li, Dongkuan Xu.
+		<i> In ECCV, 2024.  </i>
+			</p>
+			<ul>
+            </div>
+			</div>
+						
 		<div class="row">
             <div class="col-sm-11">
             <ul>

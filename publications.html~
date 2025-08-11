@@ -120,6 +120,21 @@
             <!-- /.col-lg-12 -->
         </div>
 <!-- /.row -->
+
+		<div class="row">
+            <div class="col-sm-2 text-center">
+				<img src="./YaoLi_files/img/tmlr.jpg">
+            </div>
+            <div class="col-sm-8">
+				<p><b><a href="https://openreview.net/pdf?id=r9eNUDe2im">
+						Trusted Aggregation (TAG): Backdoor Defense in Federated Learning.
+				</a></b>	 Joseph Lavond, Minhao Cheng, Yao Li.
+		<i> In TMLR, 2024.  
+					</i>
+				</p> 
+	    </div>
+			</div>
+			
 		<div class="row">
             <div class="col-sm-2 text-center">
 				<img src="./YaoLi_files/img/NeurIPS_logo.png">
